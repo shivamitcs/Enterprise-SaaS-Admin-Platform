@@ -415,7 +415,7 @@ assets/
 ├── architecture/
 ├── branding/
 ├── screenshots/
-└── wrokflows/
+└── workflows/
 ```
 
 # Engineering Vision
