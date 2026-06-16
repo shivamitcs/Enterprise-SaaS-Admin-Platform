@@ -36,7 +36,7 @@ Designed with a product-engineering mindset, the platform focuses on operational
 
 # Platform Highlights
 
-- Enterprise SaaS dashboard architecture
+- Enterprise SaaS dashboard architecture 
 - Interactive analytics and reporting
 - User management workflows
 - Business intelligence visualizations
