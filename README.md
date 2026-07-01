@@ -13,7 +13,7 @@ Enterprise-grade SaaS Operations Platform engineered for analytics monitoring, u
 ---
 
 <p align="center">
-  <img src="./assets/branding/saas-banner.png" width="100%" alt="Enterprise SaaS Operations Platform Banner"/>
+  <img src="./assets/branding/saas-banner.png" width="100%" alt="Enterprise SaaS Operations Platform Banner" />
 </p>
 
 ---
