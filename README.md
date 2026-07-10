@@ -255,7 +255,7 @@ The platform delivers centralized analytics, user management, reporting infrastr
 ### 📊 Dashboard Overview
 
 <p align="center">
-  <img src="./assets/screenshots/saas-dashboard1.png" width="100%" alt="Dashboard Overview"/>
+  <img src="./assets/screenshots/saas-dashboard1.png" width="100%" alt="Dashboard Overview" />
 </p>
 
 Modern SaaS operations dashboard featuring KPI monitoring, revenue analytics, activity tracking, business metrics, and operational visibility.
@@ -265,7 +265,7 @@ Modern SaaS operations dashboard featuring KPI monitoring, revenue analytics, ac
 ### 📈 Analytics & Business Intelligence
 
 <p align="center">
-  <img src="./assets/screenshots/saas-dashboard3.png" width="100%" alt="Analytics & Business Intelligence"/>
+  <img src="./assets/screenshots/saas-dashboard3.png" width="100%" alt="Analytics & Business Intelligence" />
 </p>
 
 Interactive analytics experience designed for revenue tracking, performance monitoring, growth analysis, and business intelligence reporting.
@@ -275,7 +275,7 @@ Interactive analytics experience designed for revenue tracking, performance moni
 ### 👥 User Management System
 
 <p align="center">
-  <img src="./assets/screenshots/saas-user-dark.png" width="100%" alt="User Management System"/>
+  <img src="./assets/screenshots/saas-user-dark.png" width="100%" alt="User Management System" />
 </p>
 
 Centralized user administration workspace providing account management, role visibility, activity monitoring, and operational control.
@@ -285,7 +285,7 @@ Centralized user administration workspace providing account management, role vis
 ### 📊 Reports & Analytics
 
 <p align="center">
-  <img src="./assets/screenshots/saas-report-dark.png" width="100%" alt="Reports & Analytics"/>
+  <img src="./assets/screenshots/saas-report-dark.png" width="100%" alt="Reports & Analytics" />
 </p>
 
 Comprehensive reporting infrastructure supporting operational insights, engagement analysis, trend monitoring, and performance reporting.
@@ -295,7 +295,7 @@ Comprehensive reporting infrastructure supporting operational insights, engageme
 ### ⚙️ Platform Settings & Configuration
 
 <p align="center">
-  <img src="./assets/screenshots/saas-setting-dark.png" width="100%" alt="Platform Settings"/>
+  <img src="./assets/screenshots/saas-setting-dark.png" width="100%" alt="Platform Settings" />
 </p>
 
 Administrative controls for platform configuration, security monitoring, feature management, and operational preferences.
